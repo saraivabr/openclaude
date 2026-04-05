@@ -12,6 +12,8 @@ Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex, Ollama, Atomic Chat, a
 
 [Quick Start](#quick-start) | [Setup Guides](#setup-guides) | [Providers](#supported-providers) | [Source Build](#source-build-and-local-development) | [VS Code Extension](#vs-code-extension) | [Community](#community)
 
+> 🇧🇷 Leia em [Português (Brasil)](README.pt-br.md)
+
 ## Why OpenClaude
 
 - Use one CLI across cloud APIs and local model backends
